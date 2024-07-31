@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm wFR4M3 also known as Vert1x</h1>
+<h1 align="center">Hi, I'm wFR4M3 also known as Vert1x</h1>
 <h3 align="center">Student from the Czech Republic</h3>
 <p align="center">
-    <img src="https://i.imgur.com/qfeqpf9.gif" alt="Animated GIF" width="400" height="300">
+    <img src="https://images.app.goo.gl/WzHWPEqoKQTuXXdH6" alt="Animated GIF" width="400" height="300">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wfr4m3&label=Profile%20views&color=0e75b6&style=flat" alt="wfr4m3" /> </p>
 
-- 🔭 I’m currently working on **Arnex - home media streaming platform**
+- 🔭 I’m currently working on **HATE - os for raspberry pi, made for wifi attacks**
 
-- 🌱 I’m currently learning **React.js, php, scss and c++**
+- 🌱 I’m currently learning **how to h4ck scada and satellite**
 
 
 
