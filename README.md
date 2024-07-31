@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm wFR4M3 also known as Vert1x</h1>
 <h3 align="center">Student from the Czech Republic</h3>
 <p align="center">
-    <img src="https://images.app.goo.gl/WzHWPEqoKQTuXXdH6" alt="Animated GIF" width="400" height="300">
+    <img src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif" alt="Animated GIF" width="400" height="300">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wfr4m3&label=Profile%20views&color=0e75b6&style=flat" alt="wfr4m3" /> </p>
