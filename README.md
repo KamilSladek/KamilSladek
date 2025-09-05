@@ -1,18 +1,69 @@
-<h1 align="center">Hi, I'm wFR4M3 also known as Vert1x</h1>
-<h3 align="center">Student from the Czech Republic</h3>
-<p align="center">
-    <img src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif" alt="Animated GIF" width="400" height="300">
-</p>
+# 🚀 Vítej v mém digitálním světě
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wfr4m3&label=Profile%20views&color=0e75b6&style=flat" alt="wfr4m3" /> </p>
+> *"Kód je poezie, systémy jsou symfonie a optimalizace je umění."*
 
-- 🔭 I’m currently working on **HATE - os for raspberry pi, made for wifi attacks**
+## 👨‍💻 O mně
 
-- 🌱 I’m currently learning **how to h4ck scada and satellite**
+Ahoj! Jsem vášnivý **Full-Stack Developer** a **nadšenec pro optimalizaci systémů a biohackingu**
 
+### 🧠 Co mě pohání
+- **Web Development**: Tvorba moderních, efektních a příjemných webů a webových aplikací
+- **Správa systémů**: Architektura robustních Linux serverů a optimalizace OS
+- **Biohacking & Brainmaxing**: Zkoumání vědy o kognitivním zlepšování a maximálním výkonu
+- **Automatizace scriptů**: Vytváření inteligentních řešení, která eliminují opakující se úkoly
 
+## 🛠️ Technický arzenál
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a  target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### **Jazyky & Frameworky**
+```
+Python          ████████████████████ 95%
+JavaScript      █████████████░░░░░░░ 60%
+React.js        ████████████░░░░░░░░ 55%
+PHP             ███████████████░░░░░ 70%
+HTML/CSS        ████████████████████ 100%
+SQL             ██████████░░░░░░░░░░ 50%
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wfr4m3&show_icons=true&locale=en&layout=compact" alt="wfr4m3" /></p>
+### **Specializované dovednosti**
+- **🎨 Frontend**: Tailwind CSS, Responzivní design, Moderní UI/UX
+- **⚙️ Backend**: Serverová architektura a Optimalizace databází
+- **🐧 Systémy**: Linux administrace a Správa serverů
+- **🤖 AI Integrace**: Prompt Engineering, Implementace LLM
+- **📱 CMS**: Vlastní řešení pro správu obsahu
+
+### **Prostředí & Nástroje**
+- **OS**: Linux (primární), Windows, macOS
+- **Servery**: Apache, Docker
+- **Databáze**: MySQL, Supabase
+- **Verzování**: Git, GitHub
+
+## 🎯 Aktuální zaměření
+
+- **Optimalizace výkonu**: Vytváření bleskově rychlých webových aplikací
+- **AI-řízený vývoj**: Integrace LLM do vývojových procesů
+- **Kognitivní zlepšování**: Aplikace biohackingových principů na produktivitu při kódování
+- **Open Source příspěvky**: Tvorba nástrojů, které pomáhají celé vývojářské komunitě
+
+## 🌐 Portfolio & Kontakt
+
+🔗 **[Prohlédni si moje Portfolio](https://kamilsladek.cz)**
+
+Chceš spolupracovat na něčem úžasném? Spojme se a budujme budoucnost společně!
+
+---
+
+### 📊 GitHub Statistiky
+
+![Tvoje GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilSladek&show_icons=true&theme=radical)
+
+![Top jazyky](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilSladek&layout=compact&theme=radical)
+
+---
+
+### 💡 Filozofie
+
+*"Nejlepší kód není jen funkční, je elegantní, efektivní a evolučný. Stejně jako lidská mysl by se i naše systémy měly neustále adaptovat, optimalizovat a překonávat svá předchozí omezení."*
+
+---
+
+⭐ **Pro tip**: Koukni na moje repozitáře níže pro praktické příklady výkonnostního vývoje a inovativních řešení!
