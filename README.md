@@ -34,7 +34,7 @@ SQL             ██████████░░░░░░░░░░ 50%
 ### **Prostředí & Nástroje**
 - **OS**: Linux (primární), Windows, macOS
 - **Servery**: Apache, Docker
-- **Databáze**: MySQL, Supabase
+- **Databáze**: MySQL
 - **Verzování**: Git, GitHub
 
 ## 🎯 Aktuální zaměření
