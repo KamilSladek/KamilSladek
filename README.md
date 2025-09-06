@@ -62,7 +62,7 @@ Chceš spolupracovat na něčem úžasném? Spojme se a budujme budoucnost spole
 
 ### 💡 Filozofie
 
-*"Nejlepší kód není jen funkční, je elegantní, efektivní a evolučný. Stejně jako lidská mysl by se i naše systémy měly neustále adaptovat, optimalizovat a překonávat svá předchozí omezení."*
+*"Nejlepší kód není jen funkční, je elegantní, efektivní a evoluční. Stejně jako lidská mysl by se i naše systémy měly neustále adaptovat, optimalizovat a překonávat svá předchozí omezení."*
 
 ---
 
